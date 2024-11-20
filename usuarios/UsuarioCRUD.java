@@ -2,12 +2,14 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.sql.SQLException;  // Asegúrate de agregar esto en UsuarioCRUD.java
+
 
 public class UsuarioCRUD {
 
-    private static final String URL = "jdbc:mysql://localhost:3306/gestion_usuarios"; // Cambia si tu base de datos tiene un puerto diferente
+    private static final String URL = "jdbc:mysql://192.168.7.41:3306/gestion_usuarios"; // Cambia si tu base de datos tiene un puerto diferente
     private static final String USER = "root";  // Cambia esto con tu usuario de MySQL
-    private static final String PASSWORD = "";  // Cambia esto con tu contraseña de MySQL
+    private static final String PASSWORD = "Tic2024P@55W0rD";  // Cambia esto con tu contraseña de MySQL
 
     private Connection connection;
 
