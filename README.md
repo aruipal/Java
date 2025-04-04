@@ -1,6 +1,7 @@
 <image src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="logo" width="80" height="160">
 
-# Estructura Básica de un Programa en Java
+## Estructura Básica de un Programa en Java
+---
 ### 1. Elementos fundamentales de un programa Java
 
 Un programa típico en Java consta de los siguientes elementos:
@@ -54,4 +55,4 @@ java HolaMundo.java
 - El orden correcto: **package → imports → clase → método main.**
 - El nombre del archivo debe coincidir con el de la clase pública.
 - Usa comentarios (// y /* */) para mejorar la legibilidad del código.
-- Sigue las convenciones de nomenclatura Java (CamelCase para clases, minúscula para métodos y variables).
+- Sigue las convenciones de nomenclatura Java *(CamelCase para clases, minúscula para métodos y variables)*.
