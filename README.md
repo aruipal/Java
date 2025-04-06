@@ -56,3 +56,6 @@ java HolaMundo.java
 - El nombre del archivo debe coincidir con el de la clase pública.
 - Usa comentarios (// y /* */) para mejorar la legibilidad del código.
 - Sigue las convenciones de nomenclatura Java *(CamelCase para clases, minúscula para métodos y variables)*.
+
+# Apuntes Java
+### :point_right:	1️⃣:	[Tipos de datos y variables.](https://github.com/aruipal/Java/blob/main/Tipos%20de%20datos%20y%20variables.md)
