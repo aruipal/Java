@@ -59,3 +59,5 @@ java HolaMundo.java
 
 # Apuntes Java
 ### :point_right:	1️⃣:	[Tipos de datos y variables.](https://github.com/aruipal/Java/blob/main/Tipos%20de%20datos%20y%20variables.md)
+
+### :point_right:	2️⃣:	[Operadores y expresiones.](https://github.com/aruipal/Java/blob/main/Operadores%20y%20Expresiones%20en%20Java.md)
