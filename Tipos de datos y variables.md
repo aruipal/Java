@@ -11,6 +11,8 @@ System.out.println("El valor de la variable numero es: " + numero);
 ### 1. Tipos de Datos Primitivos:
 **Enteros, decimales, caracteres y booleanos:**
 - Java, al ser un lenguaje de programación fuertemente tipado, exige que se defina el tipo de dato de cada variable, lo que proporciona un control estricto sobre los datos, mejorando así la seguridad y el rendimiento del código.
+<image src="https://github.com/aruipal/Java/blob/main/recursos/primitivos.JPG" alt="datos" width="600" height="180">
+<br>
 <image src="https://github.com/aruipal/Java/blob/main/recursos/TipoDeDatos.JPG" alt="datos" width="890" height="330">
 
 ### 2. Tipos de Datos no Primitivos:
