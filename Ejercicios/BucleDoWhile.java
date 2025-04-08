@@ -4,10 +4,10 @@ public class BucleDoWhile {
     public static void main(String[] args) {
         int numero = 1;
         do {
-            System.out.println("Numero: " + numero);
-            numero ++;     
+        System.out.println("Numero: " + numero);
+        numero ++;     
 
-        } while numero <= 5;
+        } while (numero <= 5);
         
     }
     
