@@ -1,4 +1,8 @@
 <image src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="logo" width="80" height="160">
+    
+### :point_right:	1️⃣:	[Tipos de datos y variables.](https://github.com/aruipal/Java/blob/main/Tipos%20de%20datos%20y%20variables.md)
+### :point_right:	2️⃣:	[Operadores y expresiones.](https://github.com/aruipal/Java/blob/main/Operadores%20y%20Expresiones%20en%20Java.md)
+### :point_right:   3️⃣: [Control de Flujo: if, else, switch.](https://github.com/aruipal/Java/blob/main/Control%20de%20Flujo.md)
 
 ## Estructura Básica de un Programa en Java
 ---
@@ -56,8 +60,3 @@ java HolaMundo.java
 - El nombre del archivo debe coincidir con el de la clase pública.
 - Usa comentarios (// y /* */) para mejorar la legibilidad del código.
 - Sigue las convenciones de nomenclatura Java *(CamelCase para clases, minúscula para métodos y variables)*.
-
-# Apuntes Java
-### :point_right:	1️⃣:	[Tipos de datos y variables.](https://github.com/aruipal/Java/blob/main/Tipos%20de%20datos%20y%20variables.md)
-
-### :point_right:	2️⃣:	[Operadores y expresiones.](https://github.com/aruipal/Java/blob/main/Operadores%20y%20Expresiones%20en%20Java.md)
