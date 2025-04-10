@@ -7,7 +7,7 @@ public class NombreEdad {
     }
     public static void main(String[] args){
         String nombre = "Antonio";
-        String edad = "45";
+        String edad = "46";
         System.out.println(nombreEdad(nombre, edad));
     }   
 }
