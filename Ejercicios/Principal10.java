@@ -38,16 +38,16 @@ class Libro1 {
 
 // Define una clase Alumno con un constructor que reciba nombre y nota, y un método que indique si ha aprobado.
 
-class Alumno1 {
-    String nombre;
-    double nota;
+class Alumno1 { // clase
+    private String nombre;
+    private double nota;
 
-    public Alumno1(String nombre, double nota) {
+    public Alumno1(String nombre, double nota) {// constructor
         this.nombre = nombre;
         this.nota = nota;
     }
 
-    public void haAprobado() {
+    public void haAprobado() { // metodo
         if (nota >= 5){
             System.out.println("\n- El alumno " + nombre + " ha aprobado.");
         } else {
