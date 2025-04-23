@@ -5,3 +5,7 @@
 
 **🧍 ¿Qué es un objeto?**
 - Un **objeto** es una **instancia de una clase**, o sea, **una versión real y concreta** creada a partir de esa plantilla.
+
+**- Relación entre clases y objetos**
+
+**- Constructores: inicializando objetos con valores**
