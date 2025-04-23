@@ -4,7 +4,7 @@
 ### :point_right:	2️⃣:	[Operadores y expresiones.](https://github.com/aruipal/Java/blob/main/Operadores%20y%20Expresiones%20en%20Java.md)
 ### :point_right:   3️⃣: [Control de Flujo: if, else, switch.](https://github.com/aruipal/Java/blob/main/Control%20de%20Flujo.md)
 ### :point_right:   4️⃣: [Bucles for, while, do-while.](https://github.com/aruipal/Java/blob/main/Bucles%20for,%20while,%20do-while.md)
-### :point_right:   5️⃣: [Métodos en Java: Definición, Parámetros y Retorno.](https://github.com/aruipal/Java/blob/main/M%C3%A9todos:%20Definici%C3%B3n,%20Par%C3%A1metros%20y%20Retorno.md)
+### :point_right:   5️⃣: [Métodos: Definición, Parámetros y Retorno.](https://github.com/aruipal/Java/blob/main/M%C3%A9todos:%20Definici%C3%B3n,%20Par%C3%A1metros%20y%20Retorno.md)
 ### :point_right:   6️⃣: [Manejo de excepciones básicas.](https://github.com/aruipal/Java/blob/main/Manejo%20de%20Excepciones%20B%C3%A1sicas.md)
 ___
 
