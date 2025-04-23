@@ -15,7 +15,7 @@
 - Un **objeto** es el **producto** creado a partir de ese molde.\
 📌 **Sin clase, no hay objetos**. Y sin objetos, una clase no cobra vida.
 
-<image src="https://github.com/aruipal/Java/blob/main/recursos/relacion.JPG" alt="relacion" width="500" height="400">
+<image src="https://github.com/aruipal/Java/blob/main/recursos/relacion.JPG" alt="relacion" width="500" height="600">
 
 🎯 **Analogía simple**
 - **Clase**: Receta de un pastel.
