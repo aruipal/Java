@@ -9,3 +9,10 @@
 **- Relación entre clases y objetos**
 
 **- Constructores: inicializando objetos con valores**
+
+
+✅ **Resumen rápido:**
+- **Clase:** Plano o plantilla para crear objetos
+- **Objeto:**	Instancia de una clase, con datos y comportamientos propios
+- **Atributo:**	Variable dentro de una clase (estado del objeto)
+- **Método:**	Función dentro de una clase (comportamiento del objeto)
