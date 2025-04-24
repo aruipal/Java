@@ -33,8 +33,9 @@ class Gerente extends Empleado {
     }
 }
 
-public class Empleado(){
-public static void main(String[] args){
-    Gerente Juan = new Gerente("Juan", 100, "TCI");
-    Juan.mostrarInfo();
+public class EjercicioEmpleado{
+    public static void main(String[] args){
+        Gerente Juan = new Gerente("Juan", 100, "TCI");
+        Juan.mostrarInfo();
+    }
 }
