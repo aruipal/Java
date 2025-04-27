@@ -10,11 +10,12 @@ package Ejercicios;
 import java.sql.*;
 
 public class ConexionBD {
-    private static final String URL = "jdbc:mysql://192.168.7.41:3306/escuela";
-    private static final String USUARIO = "SuPeRuSeR";
-    private static final String CLAVE = "SuPeR2024Us3R";
+    private static final String URL = "jdbc:mysql://localhost:3306/escuela?useSSL=false&serverTimezone=UTC"; //"jdbc:mysql://192.168.7.41:3306/escuela";
+    private static final String USUARIO = "aruipal";
+    private static final String CLAVE = "Neptuno4";
 
     public static Connection conectar() throws SQLException {
+        
         return DriverManager.getConnection(URL, USUARIO, CLAVE);
     }
 }
