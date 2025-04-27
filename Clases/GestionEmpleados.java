@@ -121,6 +121,7 @@ public class GestionEmpleados {
 
                 case 6:
                     System.out.println("¡Hasta pronto!");
+                    scanner.close();
                     return;
 
                 default:
