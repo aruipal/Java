@@ -51,6 +51,7 @@ public class Main {
                         break;
                     case 5:
                         System.out.println("Gracias por utilizar el sistema. ¡Hasta pronto!");
+                        sc.close();
                         return;
                     default:
                         System.out.println("Opción no válida. Inténtalo de nuevo.");
