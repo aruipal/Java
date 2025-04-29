@@ -10,7 +10,6 @@
 ### :point_right:   8️⃣: [Maven en Java.](https://github.com/aruipal/Java/blob/main/Maven.md)
 ### :point_right:   9️⃣: [Ejemplo de proyecto con Maven.](https://github.com/aruipal/Java/blob/main/Proyecto_Maven.md)
 
-
 ___
 
 ## Estructura Básica de un Programa en Java
